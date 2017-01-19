@@ -1,0 +1,3 @@
+> source('~/R projects/PoissonPlot.R')
+Mean: 5.0531
+Variance: 5.27600799079908
